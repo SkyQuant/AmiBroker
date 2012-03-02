@@ -1,4 +1,4 @@
-#sidebar TableOfContents
+'#sidebar TableOfContents
 
   * [Articles HOWTO articles]
     * [ArticlesXSS Web security]
