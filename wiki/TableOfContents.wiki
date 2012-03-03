@@ -1,14 +1,10 @@
 #labels Featured
   * [Articles Planets]
-    * [Articles XSS Web security]
-    * [Articles Dom DOM manipulation]
-    * [Articles Style CSS and style]
-    * [Articles Tips Tips and tricks]
+    * [Article Planets Aspects]
+    * [Article Planets Ingression]
+    * [Article Planets Declination]
   * [DOMReference DOM reference]
   * [HTMLElements HTML reference]
   * [CSSReference CSS reference]
 
-  * [Articles Planets All Planets articles]
-    * [Articles Planets Aspects]
-    * [Articles Planets Ingression]
-    * [Articles Planets Declination]
+  * [Article Planets All Planets articles]
