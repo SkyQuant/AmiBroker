@@ -1,9 +1,9 @@
 #labels Featured
-  * [GettingStarted Getting Started]
+  * [Getting Started]
   * [Planets]
-    * [Aspects Aspects]
-    * [Ingression Ingression]
-    * [Declination Declination]
+    * [Aspects]
+    * [Ingression]
+    * [Declination]
   * [Stars]
     * [FixStars]
     * [StarLines]
