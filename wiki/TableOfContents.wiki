@@ -1,5 +1,4 @@
-#labels Featured
-  * [Start Getting Started]
+  * [Home Getting Started]
   * [Planets]
     * [Aspects]
     * [Ingression]
