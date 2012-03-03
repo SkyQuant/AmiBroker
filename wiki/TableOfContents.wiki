@@ -7,7 +7,7 @@
   * [Introduction DOM reference]
   * [HTMLElements HTML reference]
   * [CSSReference CSS reference]
-  * [Planets Planets2]
+  * [Planets2]
     * [Aspects Aspects]
     * [Ingression Ingression]
     * [Declination Declination]
