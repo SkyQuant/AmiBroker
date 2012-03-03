@@ -1,4 +1,5 @@
 #labels Featured
+  * [GettingStarted Getting Started]
   * [Articles Planets]
     * [Article Aspects]
     * [Article Ingression]
