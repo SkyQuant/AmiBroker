@@ -6,7 +6,6 @@
   * [DOMReference DOM reference]
   * [HTMLElements HTML reference]
   * [CSSReference CSS reference]
-
   * [Articles2 Planets2]
     * [Article2 Aspects]
     * [Article2 Ingression]
