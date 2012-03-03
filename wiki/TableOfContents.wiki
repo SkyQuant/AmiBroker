@@ -1,11 +1,11 @@
 #labels Featured
-  * [Planets Planets]
+* [Planets All Planets]
     * [Planets Aspects]
     * [Planets Ingression]
     * [Planets Declination]
-   * [Stars Stars]
+* [Stars All Stars]
      * [Stars FixStars]
-   * [Houses]
+* [Houses]
 
   * [Articles HOWTO articles]
     * [Articles XSS Web security]
