@@ -1,5 +1,5 @@
 #labels Featured
-  * [Articles HOWTO articles]
+  * [Articles Planets]
     * [Articles XSS Web security]
     * [Articles Dom DOM manipulation]
     * [Articles Style CSS and style]
@@ -12,6 +12,3 @@
     * [Articles Planets Aspects]
     * [Articles Planets Ingression]
     * [Articles Planets Declination]
-  * [Stars All Stars]
-     * [Stars FixStars]
-  * [Houses]
