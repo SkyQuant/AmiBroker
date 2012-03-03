@@ -4,3 +4,7 @@
     * [Aspects Aspects]
     * [Ingression Ingression]
     * [Declination Declination]
+  * [Stars]
+    * [FixStars]
+    * [StarLines]
+  * [Houses]
