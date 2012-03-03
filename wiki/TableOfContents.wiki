@@ -2,7 +2,7 @@
   * [Articles Planets]
     * [Article Aspects]
     * [Article Ingression]
-    * [Article Declination]
+    * [Introduction2 Declination]
   * [Introduction DOM reference]
   * [HTMLElements HTML reference]
   * [CSSReference CSS reference]
