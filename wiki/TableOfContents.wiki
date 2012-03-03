@@ -1,11 +1,4 @@
 #labels Featured
-  * [Articles Planets]
-    * [Article Aspects]
-    * [Article Ingression]
-    * [Article Declination]
-  * [DOMReference DOM reference]
-  * [HTMLElements HTML reference]
-  * [CSSReference CSS reference]
 
   * [Articles Planets2]
     * [Article Aspects]
