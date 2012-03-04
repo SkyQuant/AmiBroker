@@ -16,4 +16,14 @@ For example, for New York it look like that
 [UTC],-5,-1,0,
 }}}
 
+Current version includes the following TimeZones files:
+ * Moscow
+ * London
+ * NewYork
+ * Chicago
+ * Frankfurt
+ * Sydney
+ * HongKong
+ * Mumbai
+
 https://lh3.googleusercontent.com/-eznfHWvw6tM/T1Jf_igtLxI/AAAAAAAAABs/fsANzMdl9Ok/s1229/h3msk.png
