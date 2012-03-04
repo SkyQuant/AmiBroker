@@ -1,5 +1,5 @@
   * [Home Getting Started]
-  * [AFL Formulas Included]
+AFL Formulas Included
     * [Aspects]
     * [Ingression]
     * [Declination]
