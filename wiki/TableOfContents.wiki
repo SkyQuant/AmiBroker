@@ -1,4 +1,5 @@
   * [Home Getting Started]
+  * [Installation]
   * [TimeZones]
   * [Circle]
   * [Options]
