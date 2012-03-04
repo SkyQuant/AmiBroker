@@ -3,7 +3,7 @@
 = Sidereal mode =
 
 
-For Sidereal mode *ayanamsha* must be also selected among the following variants:
+For Sidereal mode *ayanamsha* must be selected among the following variants:
 
 {{{
              //  FAGAN_BRADLEY         0
