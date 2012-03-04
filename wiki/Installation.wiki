@@ -11,6 +11,7 @@ If formulas folder is different then AmiBroker folder the next path must be chan
   ABpath=,C:\Program Files (x86)\AmiBrokerBeta\,
 }}}
 
+
 where
- * _TZpath_ is a 1st part of path to TimeZones files folder
- * _ABpath_ is a 1st part of path to SkyQuant formulas
+ * _TZpath_ is a part of path to TimeZones files folder
+ * _ABpath_ is a part of path to SkyQuant formulas
