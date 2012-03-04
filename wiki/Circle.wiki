@@ -1,4 +1,7 @@
 #summary One-sentence summary of this page.
 
-= Introduction =
+= Circle =
+
+Whole wheel shows Zodiac, planets, house cuspids, aspects.
+
 https://lh3.googleusercontent.com/-IwDQMQleR2s/T1Jf9rqFyzI/AAAAAAAAABM/NSNJJxQgaXI/s1229/circle.png
