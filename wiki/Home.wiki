@@ -1,22 +1,6 @@
 #summary Getting Started page.
 
+<wiki:toc max_depth="1" />
+
 = Introduction =
 https://lh4.googleusercontent.com/-EM2lSOETwbo/T1Mmvrp5uLI/AAAAAAAAADw/qqz00z4FIV8/s993/trace.png
-
-SkyQuant is a powerful solution for investigation in financial astrology. The plug-in is based on AmiBroker platform which allows to process a huge mass of historical and real-time data.
-
-
-
-== Major features: ==
- * New kind of visualization
- * Own algorithms Backtesting and Optimization
- * Fast calculation environment
- * It's *FREE* and it's *Open Source*
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
