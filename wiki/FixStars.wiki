@@ -2,7 +2,7 @@
 
 = Fix Stars =
 
-Named marker on colored bars define a point of planet and planet conjunction.
+Named marker on colored bars define a point of planet and star conjunction.
 
 Stars sorted from most to less brightest. _Sirius_ the first.
 
