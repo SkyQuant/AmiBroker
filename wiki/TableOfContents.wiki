@@ -1,8 +1,7 @@
   * [Home Getting Started]
-AFL Formulas Included
-  * [Aspects]
-    * [Ingression]
+  * [StarTrack]
     * [Declination]
-    * [FixStars]
-    * [StarTrack]
-    * [Houses]
+  * [Aspects]
+  * [Ingression]
+  * [FixStars]
+  * [Houses]
