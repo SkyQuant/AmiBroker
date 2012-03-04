@@ -1,0 +1,12 @@
+#summary Installation.
+
+= Introduction =
+
+Installation must be done to the main AmiBroker folder.
+
+If formulas folder is different then AmiBroker folder the next path must be changed:
+{{{
+  [PATH]
+  TZpath=,C:\Program Files (x86)\AmiBrokerBeta\,
+  ABpath=,C:\Program Files (x86)\AmiBrokerBeta\,
+}}}
