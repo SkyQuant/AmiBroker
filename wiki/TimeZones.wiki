@@ -15,3 +15,5 @@ For example, for New York it look like that
 [atlas],40.776382,-73.966484,NewYork
 [UTC],-5,-1,0,
 }}}
+
+https://lh3.googleusercontent.com/-eznfHWvw6tM/T1Jf_igtLxI/AAAAAAAAABs/fsANzMdl9Ok/s1229/h3msk.png
