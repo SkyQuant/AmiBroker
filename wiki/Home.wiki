@@ -2,11 +2,14 @@
 
 = Introduction =
 
-SkyQuant is a powerful solution for investigation in financial astrology.
+SkyQuant is a powerful solution for investigation in financial astrology. The plug-in is based on AmiBroker platform which allows to process a huge mass of historical and real-time data.
+
 
 
 == Major features: ==
- * New kind of visualisation
+ * New kind of visualization
+ * Own algorithms Backtesting and Optimization
+ * Fast calculation environment
  * It's *FREE* and it's *Open Source*
 
 
