@@ -29,4 +29,4 @@ Whole solution consist of
 SkyQuant.dll plays a role of a link between Swiss Ephemeris and end-user formulas. To improve a functionality adding correction to SkyQuant.dll it's necessary to build new project. Source for that are
  # [http://amibroker.com/download.html AmiBroker Developlent Kit (ADK)]
  # [http://www.astro.com/swisseph/ Swiss Ephemeris]
- # [Functions.cpp in Download area]
+ # [Functions.cpp in Downloads area]
