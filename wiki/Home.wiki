@@ -1,6 +1,5 @@
 #summary Getting Started page.
 
-<wiki:toc max_depth="1" />
+= Getting Started =
 
-= Introduction =
 https://lh4.googleusercontent.com/-EM2lSOETwbo/T1Mmvrp5uLI/AAAAAAAAADw/qqz00z4FIV8/s993/trace.png
