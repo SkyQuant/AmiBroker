@@ -1,8 +1,13 @@
-#summary One-sentence summary of this page.
+#summary Getting Started page.
 
 = Introduction =
 
-Add your content here.7
+SkyQuant is a powerful solution for investigation in financial astrology.
+
+
+== Major features: ==
+ * New kind of visualisation
+ * It's *FREE* and it's *Open Source*
 
 
 = Details =
