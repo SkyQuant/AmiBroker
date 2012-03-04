@@ -2,7 +2,7 @@
 
 = Ingression =
 
-Colored by element or cross principle (depends on user selection) bars represent a planet position in Zodiacal sign.
+Colored by element or cross principle (depends on user selection) bars represent a planet position in Zodiac.
 
 _St.R._ means that planet change it's direction to Retrograde.
 
