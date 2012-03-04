@@ -2,9 +2,11 @@
 
 = Ingression =
 
-Colored by element or cross principle bars represent a planet position in Zodiacal sign.
-St.R. means that planet change it's direction to Retrograde.
-St.Dr. means a start or Directional moving. 
+Colored by element or cross principle (depends on user selection) bars represent a planet position in Zodiacal sign.
+
+_St.R._ means that planet change it's direction to Retrograde.
+
+_St.Dr._ means a start or Directional moving. 
 
 Ingression https://lh3.googleusercontent.com/-kEQe4QSaVA8/T1JgAWtN8yI/AAAAAAAAACE/twf-LdwmMFc/s1228/ing1.png
 
