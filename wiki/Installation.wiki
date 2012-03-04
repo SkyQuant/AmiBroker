@@ -1,6 +1,6 @@
 #summary Installation.
 
-= Introduction =
+= Installation =
 
 Installation must be done to the main AmiBroker folder.
 
@@ -12,5 +12,5 @@ If formulas folder is different then AmiBroker folder the next path must be chan
 }}}
 
 where
-_TZpath_ is a 1st part of path to TimeZones files folder
-_ABpath_ is a 1st part of path to SkyQuant formulas
+ * _TZpath_ is a 1st part of path to TimeZones files folder
+ * _ABpath_ is a 1st part of path to SkyQuant formulas
