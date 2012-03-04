@@ -2,7 +2,9 @@
 
 = Installation =
 
-Installation must be done to the main AmiBroker folder.
+You must install [http://amibroker.com/ AmiBroker] first.
+
+SkyQuant plug-in installation must be done to the main AmiBroker folder.
 
 If formulas folder is different then AmiBroker folder the next path in _SkyQuant.ini_ file must be changed:
 {{{
