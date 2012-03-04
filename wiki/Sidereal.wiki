@@ -33,6 +33,6 @@ For Sidereal mode *ayanamsha* must be selected among the following variants:
 By default LAHIRI chosen.
 
 
-Siderial longitude sinusoid below.
+Siderial longitude sinusoid shown below.
 
 https://lh3.googleusercontent.com/-zgQxRHTYxw8/T1JgBzdb1AI/AAAAAAAAACk/hQVNmCByn1w/s1229/sidsin.png
