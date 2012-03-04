@@ -1,4 +1,4 @@
-<g:plusone size="medium"></g:plusone>
+    <g:plusone size="medium"></g:plusone>
   * [Home Getting Started]
   * [Installation]
   * [TimeZones]
@@ -15,5 +15,3 @@
   * [Ingression]
   * [FixStars Fix Stars]
   * [Houses]
-
-<g:plusone size="medium"></g:plusone>
