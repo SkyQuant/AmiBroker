@@ -1,6 +1,6 @@
 #summary Cosinusoid page.
 
-= c =
+= Cosinusoid =
 
 Cosinusoid of 2 planets with zero line. Red and green arrows point to Cosinusoid pivots with projection on a chart defined by ZigZag parameter.
 
