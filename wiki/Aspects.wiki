@@ -7,4 +7,6 @@ Aspects defined by two lists of planets and angle list. Correction possible to d
  * Planets 2
  * Aspects
 
+Vertical stroke shows an aspect culmination.
+
 https://lh4.googleusercontent.com/-fJjBMduCSJI/T1Jf9o3CJ9I/AAAAAAAAABU/ypyYZAkRG6k/s1228/aspects1.png
