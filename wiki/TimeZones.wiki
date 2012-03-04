@@ -17,7 +17,7 @@ For example, for New York it look like that
 }}}
 
 Current version includes the TimeZones files for the following cities:
- * Moscow
+ * Moscow (default)
  * London
  * New York
  * Chicago
@@ -25,5 +25,12 @@ Current version includes the TimeZones files for the following cities:
  * Sydney
  * Hong Kong
  * Mumbai
+
+To change default place the string in _SQ_header.afl_ must be corrected.
+{{{
+  tzchoice = ParamList("Select TimeZone", "Moscow|London|NewYork|Chicago|Frankfurt|Sydney|HongKong|Mumbai" );
+}}}
+
+
 
 https://lh3.googleusercontent.com/-eznfHWvw6tM/T1Jf_igtLxI/AAAAAAAAABs/fsANzMdl9Ok/s1229/h3msk.png
