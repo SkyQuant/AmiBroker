@@ -2,7 +2,7 @@
 
 = Aspects =
 
-Aspects define by two list of planets and angle list. Correction possible to do by clicking right mouse button on aspect bars, choosing _Parametrs_ and edit necessary lists:
+Aspects defined by two list of planets and angle list. Correction possible to do by clicking right mouse button on aspect bars, choosing _Parametrs_ and edit necessary lists:
  * Planets 1
  * Planets 2
  * Aspects
