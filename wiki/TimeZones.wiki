@@ -1,0 +1,26 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+Add your content here.
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
+
+Each TimeZones file include information about particular place (usually city) and consist of the next points
+* Latitude
+* Longitude
+* Time Shift form UTC
+* Time Shift coefficients
+* List of time changes
+
+For New York it look like that
+{{{
+[atlas],40.776382,-73.966484,NewYork
+[UTC],-5,-1,0,
+}}}
