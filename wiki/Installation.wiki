@@ -4,7 +4,7 @@
 
 Installation must be done to the main AmiBroker folder.
 
-If formulas folder is different then AmiBroker folder the next path in _SkyQuant.ini_file must be changed:
+If formulas folder is different then AmiBroker folder the next path in _SkyQuant.ini_ file must be changed:
 {{{
   [PATH]
   TZpath=,C:\Program Files (x86)\AmiBrokerBeta\,
