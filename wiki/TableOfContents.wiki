@@ -1,6 +1,6 @@
   * [Home Getting Started]
 AFL Formulas Included
-    * [Aspects]
+  * [Aspects]
     * [Ingression]
     * [Declination]
     * [FixStars]
