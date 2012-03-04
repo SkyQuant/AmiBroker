@@ -12,5 +12,5 @@
     * [Cosinusoid]
   * [Aspects]
   * [Ingression]
-  * [FixStars]
+  * [FixStars Fix Stars]
   * [Houses]
