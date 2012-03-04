@@ -1,3 +1,4 @@
+<g:plusone size="medium"></g:plusone>
   * [Home Getting Started]
   * [Installation]
   * [TimeZones]
