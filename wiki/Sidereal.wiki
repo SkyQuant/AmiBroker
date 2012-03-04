@@ -29,6 +29,8 @@ For Sidereal mode *ayanamsha* must be also selected among the following variants
              //  B1950                20
              //  USER                 255
 }}}
-			
+	
+		
+Siderial longitude sinusoid
 
 https://lh3.googleusercontent.com/-zgQxRHTYxw8/T1JgBzdb1AI/AAAAAAAAACk/hQVNmCByn1w/s1229/sidsin.png
