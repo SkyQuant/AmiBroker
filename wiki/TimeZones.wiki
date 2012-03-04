@@ -13,11 +13,11 @@ Add your content here.  Format your content with:
   * Automatic links to other wiki pages
 
 Each TimeZones file include information about particular place (usually city) and consist of the next points
-* Latitude
-* Longitude
-* Time Shift form UTC
-* Time Shift coefficients
-* List of time changes
+  * Latitude
+  * Longitude
+  * Time Shift form UTC
+  * Time Shift coefficients
+  * List of time changes
 
 For New York it look like that
 {{{
