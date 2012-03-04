@@ -4,6 +4,6 @@
 
 Colored by crosses house bars show a planet position. Single digit represents a cuspid of particular house.
 
-Analysis is good on short time-frames, like 1-minute.
+Analysis is good on short intraday time-frames, like 1-minute.
 
 https://lh3.googleusercontent.com/-UukR4s8Zx9I/T1Jf-0yxYrI/AAAAAAAAAB4/acflVfPFrlg/s1229/h1.png
