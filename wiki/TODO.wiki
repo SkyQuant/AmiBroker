@@ -5,3 +5,4 @@
  * Transits
  * Progressions
  * Eclipses
+ * TimeZones (including time switches) and geocoordinates database
