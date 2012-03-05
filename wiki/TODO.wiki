@@ -1,8 +1,9 @@
 #summary To Do List.
 
 = ToDo List =
-== plans for plug-in improvements and features adding ==
+== plans for the plug-in improvement and features adding ==
 <br>
+
  * Transits
  * Progressions
  * Eclipses
