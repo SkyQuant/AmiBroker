@@ -5,3 +5,49 @@
 SkyQuant AFL file applying launch ephemeris building. Once calculated ephemeris load to a memory for fast use in work. It lives till AmiBroker closing. Building processing steps can be observed in _Log -> Trace_ window.
 
 https://lh4.googleusercontent.com/-EM2lSOETwbo/T1Mmvrp5uLI/AAAAAAAAADw/qqz00z4FIV8/s993/trace.png
+
+Each object has it's own identification number.
+
+{{{
+Sun		|  0
+Moon		|  1
+Mercury		|  2
+Venus		|  3
+Mars		|  4
+Jupiter		|  5
+Saturn		|  6
+Uranus		|  7
+Neptune		|  8
+Pluto		|  9
+mean Node	|  10
+Node		|  11
+Lilith		|  12
+osc. Apogee	|  13
+Earth		|  14
+Chiron		|  15
+Pholus		|  16
+Ceres		|  17
+Pallas		|  18
+Juno		|  19
+Vesta		|  20
+intp. Apogee	|  21
+intp. Perigee	|  22
+Cupido		|  40
+Hades		|  41
+Zeus		|  42
+Kronos		|  43
+Apollon		|  44
+Admetos		|  45
+Vulcanus	|  46
+Poseidon	|  47
+Isis-Transpluto	|  48
+Nibiru		|  49
+Harrington		|  50
+Leverrier (Neptune)	|  51
+Adams (Neptune)		|  52
+Lowell (Pluto)		|  53
+Pickering (Pluto)	|  54
+Vulcan		        |  55
+Selena/White Moon	|  56
+Waldemath		|  57
+}}}
