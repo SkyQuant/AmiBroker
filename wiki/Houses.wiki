@@ -1,9 +1,36 @@
-#summary One-sentence summary of this page.
+#summary Houses page.
 
 = Houses =
 
 Colored house bars indicate a planet position. Digits in bracket represent a cuspid of particular house.
 
-Analysis is good on short intraday time-frames, like 1-minute.
+That kind of analysis is good on short intraday time-frames, like 1-minute.
+<br>
 
+On default _Placidus_ house system is chosen, but the following house systems are implemented so far:
+{{{
+
+
+         ‘P’     Placidus
+         ‘K’     Koch
+         ‘O’     Porphyrius
+         ‘R’     Regiomontanus
+         ‘C’     Campanus
+         ‘A’ or ‘E’     Equal (cusp 1 is Ascendant)
+         ‘V’     Vehlow equal (Asc. in middle of house 1)
+         ‘W’     Whole sign 
+         ‘X’     axial rotation system
+         ‘H’     azimuthal or horizontal system
+         ‘T’     Polich/Page (“topocentric” system)
+         ‘B’     Alcabitus
+         ‘M’     Morinus
+         ‘U’     Krusinski-Pisa
+}}}
+<br>
+To switch it the string below must be found in _SkyQuant_houses_ file and particular letter assigned to var _Hsys_.
+<br>
+{{{
+  Hsys = "P"; // houses system
+}}}
+<br>
 https://lh3.googleusercontent.com/-UukR4s8Zx9I/T1Jf-0yxYrI/AAAAAAAAAB4/acflVfPFrlg/s1229/h1.png
