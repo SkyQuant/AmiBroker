@@ -10,7 +10,7 @@ Each object has it's own identification number. These IDs must be used in planet
 
 https://lh3.googleusercontent.com/-zQEgBJgX3_s/T1RxetgjTsI/AAAAAAAAAD8/Q_HdJDduvss/s392/prop.jpg
 
-== Planet numbers ==
+== Available planet numbers ==
 
 ||Sun||  0||
 ||Moon||  1||
