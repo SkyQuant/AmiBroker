@@ -18,6 +18,7 @@ where
  * _TZpath_ is a part of path to TimeZones files folder
  * _ABpath_ is a part of path to SkyQuant formulas
 
+<br><br>
 = Open Source =
 
 Whole solution consist of 
