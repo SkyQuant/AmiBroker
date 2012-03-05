@@ -6,7 +6,9 @@ SkyQuant AFL file applying launch ephemeris building. Once calculated ephemeris 
 
 https://lh4.googleusercontent.com/-EM2lSOETwbo/T1Mmvrp5uLI/AAAAAAAAADw/qqz00z4FIV8/s993/trace.png
 
-Each object has it's own identification number.
+Each object has it's own identification number. These IDs must be used at planets list 
+
+https://lh3.googleusercontent.com/-zQEgBJgX3_s/T1RxetgjTsI/AAAAAAAAAD8/Q_HdJDduvss/s392/prop.jpg
 
 {{{
 Sun		|  0
