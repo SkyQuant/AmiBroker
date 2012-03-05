@@ -16,6 +16,7 @@ For example, for New York it look like that
 [UTC],-5,-1,0,
 }}}
 
+<br>
 Current version includes the TimeZones files for the following cities:
  * Moscow (default)
  * London
