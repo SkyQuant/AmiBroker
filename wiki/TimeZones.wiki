@@ -32,6 +32,5 @@ To change default place the string in _SQ_header.afl_ must be corrected.
   tzchoice = ParamList("Select TimeZone", "Moscow|London|NewYork|Chicago|Frankfurt|Sydney|HongKong|Mumbai" );
 }}}
 
-
-
+<br>
 https://lh3.googleusercontent.com/-eznfHWvw6tM/T1Jf_igtLxI/AAAAAAAAABs/fsANzMdl9Ok/s1229/h3msk.png
