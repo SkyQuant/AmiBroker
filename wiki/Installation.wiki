@@ -30,3 +30,4 @@ SkyQuant.dll plays role of a link between Swiss Ephemeris and the end-user appli
  # [http://amibroker.com/download.html AmiBroker Developlent Kit (ADK)]
  # [http://www.astro.com/swisseph/ Swiss Ephemeris]
  # _Functions.cpp_ in [http://code.google.com/p/skyquant/downloads/list Downloads area]
+ # AFL scripts are packed in installer
