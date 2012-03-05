@@ -2,7 +2,7 @@
 
 = Houses =
 
-Colored house bars indicate a planet position. Digit in bracket represents a cuspid of particular house.
+Colored house bars indicate a planet position. Digits in bracket represent a cuspid of particular house.
 
 Analysis is good on short intraday time-frames, like 1-minute.
 
