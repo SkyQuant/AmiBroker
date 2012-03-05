@@ -1,6 +1,6 @@
 #summary To Do List.
 
-= To Do List =
+= ToDo List =
 
  * Transits
  * Progressions
