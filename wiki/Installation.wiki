@@ -2,7 +2,7 @@
 
 = Installation =
 
-[http://amibroker.com/ AmiBroker] must be installed first.
+[http://amibroker.com/ AmiBroker] *32-bit* version not older then *5.40* must be installed first.
 
 SkyQuant plug-in installation must be done to the main AmiBroker folder.
 
