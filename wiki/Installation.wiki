@@ -4,7 +4,7 @@
 
 [http://amibroker.com/ AmiBroker] *32-bit* version not older then *5.40* must be installed first.
 
-SkyQuant plug-in installation must be done to the main AmiBroker folder. *BackUp* SkyQuant previous formulas before this stage.
+SkyQuant plug-in installation must be done to the main AmiBroker folder. *BackUp* SkyQuant previous files before this stage.
 
 If formulas folder is different then AmiBroker folder the next path in _SkyQuant.ini_ file must be changed:
 {{{
