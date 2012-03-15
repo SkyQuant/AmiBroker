@@ -2,7 +2,7 @@
 
 = Getting Started =
 
-SkyQuant AFL file applying launch ephemeris building. Once calculated ephemeris load to a memory for fast use in work. It lives till AmiBroker closing. Building processing steps can be observed in _Log -> Trace_ window.
+SkyQuant AFL file applying launch ephemeris building. Wait some seconds (depends on CPU capacity) until estimation finish. Once calculated ephemeris load to a memory for fast use in work. It lives till AmiBroker closing. Building processing steps can be observed in _Log -> Trace_ window.
 
 https://lh4.googleusercontent.com/-EM2lSOETwbo/T1Mmvrp5uLI/AAAAAAAAADw/qqz00z4FIV8/s993/trace.png
 
