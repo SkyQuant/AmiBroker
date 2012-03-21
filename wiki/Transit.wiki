@@ -8,7 +8,7 @@ After *forecast* AFL-file applying you are able to choice Natal date and time. S
 https://lh4.googleusercontent.com/--gxADoInh28/T2oj8P-3RkI/AAAAAAAAAEU/lFfCiHgQtcQ/s1225/transit2.png
 
 <br>
-You can also complete your own natal date/time which is out of chart. For example let's make the Bank of England horoscope which suppose was founded on 24 June 1694 at noon in London. So natal date/time line looks like that *0,24,6,1694,12,00,0,0* where digit
+You can also complete your own natal date/time which is out of chart. For example let's make the Bank of England horoscope which suppose was founded on 24 June 1694 at noon in London. So natal date/time line for this moment looks like that *0,24,6,1694,12,00,0,0* where digit
 || 1 || TimeZone ||
 || 2 || Day ||
 || 3 || Month ||
