@@ -14,4 +14,7 @@
   * [Ingression]
   * [FixStars Fix Stars]
   * [Houses]
+  * [Forecasting]
+    * [Transit]
+    * [Progression]
   * [TODO]
