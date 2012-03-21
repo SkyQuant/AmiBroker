@@ -4,7 +4,8 @@
 == plans for the plug-in improvement and features adding ==
 <br>
 
- * Transits
- * Progressions
+ * ~~Transits~~
+ * ~~Progressions~~
+ * Directions
  * Eclipses
  * TimeZones (including time switches) and geocoordinates database
