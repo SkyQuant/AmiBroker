@@ -2,7 +2,7 @@
 
 = How to use Transit method =
 
-After *SkyQuant_forecast.afl* script implementing you are able to choose a Natal date and time. Simply by cursor moving when you select particular bar aspects from transit to natal planet are building for each bar. Selecting the necessary bar you believe natal point exist you have to fix it just by copy-pasting the dates from the second line in Interpretation window to *Natal Date/Time* field of Properties. If you need a horoscope of the first market deal or IPO apply an info selecting the first bar.
+After *SkyQuant_forecast.afl* script implementing you are able to choose a Natal date and time. Simply by cursor moving when you select particular bar aspects are building from transit to natal planet for each bar. Selecting the necessary bar you believe natal point exist you have to fix it just by copy-pasting the dates from the second line in Interpretation window to *Natal Date/Time* field of Properties. If you need a horoscope of the first market deal or IPO apply an info selecting the first bar.
 
 <br>
 https://lh4.googleusercontent.com/--gxADoInh28/T2oj8P-3RkI/AAAAAAAAAEU/lFfCiHgQtcQ/s1225/transit2.png
