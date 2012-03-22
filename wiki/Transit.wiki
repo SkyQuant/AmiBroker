@@ -8,7 +8,7 @@ After *forecast* AFL-file applying you are able to choice Natal date and time. S
 https://lh4.googleusercontent.com/--gxADoInh28/T2oj8P-3RkI/AAAAAAAAAEU/lFfCiHgQtcQ/s1225/transit2.png
 
 <br>
-You can also complete your own natal date/time which is out of chart. For example let's make _the Bank of England_ horoscope (with Dow Jones index above) which suppose was founded on 24 June 1694 at noon in London. So natal date/time line for this moment looks like that *0,24,6,1694,12,00,0,0* where digit
+You can also complete your own natal date/time which is out of chart. For example let's make _the Bank of England_ horoscope which suppose was founded on 24 June 1694 at noon in London. So natal date/time line for this moment looks like that *0,24,6,1694,12,00,0,0* where digit
 || 1 || TimeZone ||
 || 2 || Day ||
 || 3 || Month ||
@@ -18,7 +18,7 @@ You can also complete your own natal date/time which is out of chart. For exampl
 || 7 || Second ||
 || 8 || Bar Number ||
 
-Bar Number needs for cycle calculation which is appearing below the second line after natal point fixing. Cycle measuring in years, days and hours. Do not also forget about vertical red & green markers which make by double mouse clicking. It's not mandatory but useful to mark natal point.
+Bar Number needs for cycle calculation which is appearing below the second line after natal point fixing. Cycle measuring in years, days and hours. Do not also forget about vertical red & green markers which make by double mouse clicking. It's not mandatory but conveniently when you can see the natal point on a chart.
 
 <br>
 https://lh4.googleusercontent.com/-pr8v2hQ9MuE/T2oj8czE9II/AAAAAAAAAEQ/Sg5uBwanTA0/s1225/transitBoE.png
