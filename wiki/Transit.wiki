@@ -18,7 +18,7 @@ You can also complete your own natal date/time which is out of chart. For exampl
 || 7 || Second ||
 || 8 || Bar Number ||
 
-Bar Number needs for cycle calculation which is appearing below the second line after natal point fixing. Cycle measuring in years, days and hours. Do not also forget about vertical red & green markers which make by double mouse clicking. It's not mandatory but conveniently when you can see the natal point on a chart.
+Bar Number needs for cycle calculation which is appearing below the second line after natal point fixing. Cycle measuring in years, days and hours. Do not also forget about vertical red & green markers which make by double mouse clicking. It's not mandatory but conveniently when you wish to see the natal point on a chart.
 
 <br>
 https://lh4.googleusercontent.com/-pr8v2hQ9MuE/T2oj8czE9II/AAAAAAAAAEQ/Sg5uBwanTA0/s1225/transitBoE.png
