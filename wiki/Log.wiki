@@ -13,6 +13,7 @@ Change log.
   * Minor Progression (1 Sidereal Moon Month = 1 Tropical Year)
   * Direction (1 degree = 1 Year)
   * Profection (30 degree = 1 Year)
+  * Backward calculation as well as traditional Forward
 
   * Custom orbises for each angle
 
