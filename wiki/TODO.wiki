@@ -9,3 +9,4 @@
  * ~~Directions~~
  * Eclipses
  * TimeZones (including time switches) and geocoordinates database
+ * Patterns calculation
