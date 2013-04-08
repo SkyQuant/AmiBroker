@@ -6,6 +6,6 @@
 
  * ~~Transits~~
  * ~~Progressions~~
- * Directions
+ * ~~Directions~~
  * Eclipses
  * TimeZones (including time switches) and geocoordinates database
