@@ -1,4 +1,5 @@
 #summary Whats New.
+#labels Featured
 
 = Whats New =
 
