@@ -7,11 +7,11 @@ Changing log.
 
 = Version 1.3 =
 
-Tertiary Progression (1 Sidereal Day = 1 Sidereal Moon Month)
-Minor Progression (1 Sidereal Moon Month = 1 Tropical Year)
-Direction (1 degree = 1 Year)
-Profection (30 degree = 1 Year)
+  * Tertiary Progression (1 Sidereal Day = 1 Sidereal Moon Month)
+  * Minor Progression (1 Sidereal Moon Month = 1 Tropical Year)
+  * Direction (1 degree = 1 Year)
+  * Profection (30 degree = 1 Year)
 
-Custom orbises for each angle
+  * Custom orbises for each angle
 
-Some Minor aspects processing added
+  * Some Minor aspects processing added
