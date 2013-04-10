@@ -2,7 +2,6 @@
 #labels Featured
 
 = Whats New =
-
   Change log.
 
 
