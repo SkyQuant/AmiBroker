@@ -1,0 +1,36 @@
+# Sidereal mode #
+
+
+For Sidereal mode **ayanamsha** must be selected among the following variants:
+
+```
+             //  FAGAN_BRADLEY         0
+             //  LAHIRI                1
+             //  DELUCE                2
+             //  RAMAN                 3
+             //  USHASHASHI            4
+             //  KRISHNAMURTI          5
+             //  DJWHAL_KHUL           6
+             //  YUKTESHWAR            7
+             //  JN_BHASIN             8
+             //  BABYL_KUGLER1         9
+             //  BABYL_KUGLER2        10
+             //  BABYL_KUGLER3        11
+             //  BABYL_HUBER          12
+             //  BABYL_ETPSC          13
+             //  ALDEBARAN_15TAU      14
+             //  HIPPARCHOS           15
+             //  SASSANIAN            16
+             //  GALCENT_0SAG         17
+             //  J2000                18
+             //  J1900                19
+             //  B1950                20
+             //  USER                 255
+```
+
+By default LAHIRI chosen.
+
+
+Siderial longitude sinusoid shown below.
+
+![https://lh3.googleusercontent.com/-zgQxRHTYxw8/T1JgBzdb1AI/AAAAAAAAACk/hQVNmCByn1w/s1229/sidsin.png](https://lh3.googleusercontent.com/-zgQxRHTYxw8/T1JgBzdb1AI/AAAAAAAAACk/hQVNmCByn1w/s1229/sidsin.png)

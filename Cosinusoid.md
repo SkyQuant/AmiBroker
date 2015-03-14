@@ -1,0 +1,6 @@
+# Cosinusoid #
+
+Cosinusoid of 2 planets with zero line. Red and green arrows indicate Cosinusoid pivots with projection on a chart defined by ZigZag parameter.
+
+
+![https://lh3.googleusercontent.com/-fUhB8DJ0zTs/T1Jf-N4SZYI/AAAAAAAAABY/fNW_VoCZ6Mk/s1229/coszero.png](https://lh3.googleusercontent.com/-fUhB8DJ0zTs/T1Jf-N4SZYI/AAAAAAAAABY/fNW_VoCZ6Mk/s1229/coszero.png)

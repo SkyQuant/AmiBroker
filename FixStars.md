@@ -1,0 +1,11 @@
+# Fix Stars #
+
+Named marker on colored bars define a point of planet and star conjunction.
+
+Stars sorted from most to less brightest. _Sirius_ the first. Catalog includes more then 350 named stars.
+
+<br>
+<img src='https://lh6.googleusercontent.com/-BfmD0oEiIqI/T1JgCpzxOXI/AAAAAAAAACc/1hBN4aiEsH0/s1229/starconjES.png' />
+
+<br>
+<img src='https://lh5.googleusercontent.com/-DuMsY9nRVQc/T1JgCOTkulI/AAAAAAAAACU/6rQf8NYiqPk/s1229/starconj.png' />

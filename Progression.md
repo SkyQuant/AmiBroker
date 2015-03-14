@@ -1,0 +1,6 @@
+# How to use Progression #
+
+Progression are made as Transite but after **forecast** applying you have to select Progression in **Forecasting method** list. Insert Moon or fast internal planets to **Planets Aspecting** field for better performance.
+
+<br>
+<img src='https://lh3.googleusercontent.com/--ndPSU9ZgMA/T2oj6pyQ6wI/AAAAAAAAAEM/H9E8remAw7M/s1225/progress.png' />

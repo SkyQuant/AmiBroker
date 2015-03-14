@@ -1,0 +1,5 @@
+# Sinusoid #
+
+Some star longitude Sinusoids as an example.
+
+![https://lh3.googleusercontent.com/-zgQxRHTYxw8/T1JgBzdb1AI/AAAAAAAAACk/hQVNmCByn1w/s1229/sidsin.png](https://lh3.googleusercontent.com/-zgQxRHTYxw8/T1JgBzdb1AI/AAAAAAAAACk/hQVNmCByn1w/s1229/sidsin.png)

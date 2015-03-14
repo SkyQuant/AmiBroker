@@ -1,0 +1,5 @@
+# Circle #
+
+The wheel shows Zodiac, planets, aspects, house cuspids positions.
+
+![https://lh3.googleusercontent.com/-IwDQMQleR2s/T1Jf9rqFyzI/AAAAAAAAABM/NSNJJxQgaXI/s1229/circle.png](https://lh3.googleusercontent.com/-IwDQMQleR2s/T1Jf9rqFyzI/AAAAAAAAABM/NSNJJxQgaXI/s1229/circle.png)

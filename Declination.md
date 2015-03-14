@@ -1,0 +1,3 @@
+![https://lh3.googleusercontent.com/-qQ2b366nR3Y/T1Jf-8i_l4I/AAAAAAAAABc/vAlB8pCY9ds/s1484/decl1.png](https://lh3.googleusercontent.com/-qQ2b366nR3Y/T1Jf-8i_l4I/AAAAAAAAABc/vAlB8pCY9ds/s1484/decl1.png)
+
+![https://lh3.googleusercontent.com/-9YLW0zRvOUc/T2LhlDvpCzI/AAAAAAAAAEA/tI69YCuuxEM/s1225/decl2.png](https://lh3.googleusercontent.com/-9YLW0zRvOUc/T2LhlDvpCzI/AAAAAAAAAEA/tI69YCuuxEM/s1225/decl2.png)
