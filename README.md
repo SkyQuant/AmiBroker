@@ -4,8 +4,6 @@
 ## What is SkyQuant?
 SkyQuant is a powerful solution for market patterns research, cycles analysis and investigation in financial astrology. Based on [AmiBroker](http://amibroker.com/) the plug-in allows to use all platform features for own algorithmic trading systems developing. 
 
-![http://www.softpedia.com/get/Others/Finances-Business/SkyQuant.shtml](http://www.softpedia.com/base_img/softpedia_free_award_f.gif)http://www.softpedia.com/get/Others/Finances-Business/SkyQuant.shtml
-
 ## Major features
 * New kind of visualization 
 * Fast calculation environment for plotting, back-testing and optimization 
