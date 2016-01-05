@@ -1,30 +1,31 @@
-# SkyQuant-for-AmiBroker
-Automatically exported from code.google.com/p/skyquant
+# SkyQuant for AmiBroker
+*Automatically exported from code.google.com/p/skyquant*
 
-What is SkyQuant?
+## What is SkyQuant?
 
-SkyQuant is a powerful solution for market patterns research, cycles analysis and investigation in financial astrology. Based on AmiBroker the plug-in allows to use all platform features for own algorithmic trading systems developing. 
+SkyQuant is a powerful solution for market patterns research, cycles analysis and investigation in financial astrology. Based on [AmiBroker](http://amibroker.com/) the plug-in allows to use all platform features for own algorithmic trading systems developing. 
 
 
-Major features
+## Major features
 * New kind of visualization 
 * Fast calculation environment for plotting, back-testing and optimization 
 * Wide range of astrological methods available: 
-* Major and Minor Aspects 
-* Ingression 
-* Retrograde motion 
-* Fix Stars 
-* Houses 
+  * Major and Minor Aspects 
+  * Ingression 
+  * Retrograde motion 
+  * Fix Stars 
+  * Houses 
 * Different representation modes: 
-* Longitude position 
-* Declination 
-* Heliocentric coordinate system 
-* Sidereal coordinate system 
-* Sinusoidal chart 
-* Cosinusoidal chart 
+  * Longitude position 
+  * Declination 
+  * Heliocentric coordinate system 
+  * Sidereal coordinate system 
+  * Sinusoidal chart 
+  * Cosinusoidal chart 
 * Forecast tools implementation: 
-* Transit 
-* Progressions 
-* Directions 
+  * Transit 
+  * Progressions 
+  * Directions 
+
 Forward and Backward calculation 
-It's FREE and it's Open Source
+It's **FREE** and it's **Open Source**
