@@ -1,5 +1,5 @@
 # SkyQuant for AmiBroker
-*Automatically exported from code.google.com/p/skyquant*
+*Automatically exported from http://skyquant.googlecode.com*
 
 ## What is SkyQuant?
 SkyQuant is a powerful solution for market patterns research, cycles analysis and investigation in financial astrology. Based on [AmiBroker](http://amibroker.com/) the plug-in allows to use all platform features for own algorithmic trading systems developing. 
